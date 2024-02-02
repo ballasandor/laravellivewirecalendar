@@ -1,2 +1,3 @@
-# laravellivewirecalendar
-PHP Calendar - Laravel Livewire
+# PHP Calendar - Laravel Livewire
+
+Tailwind CSS
